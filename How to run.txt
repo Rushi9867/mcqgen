@@ -1,0 +1,20 @@
+create conda environment:
+ conda create -p env python=3.8 -y
+
+activate conda environment:
+ source activate ./env
+
+create virtual environment in vscode:
+ python -m venv venv
+
+activate virtual environment in vscode:
+ venv/Scripts/activate
+
+create git repository
+ git init
+ 
+ git branch -M main
+
+Run StreamlitApp.py file:
+ streamlit run StreamlitApp.py
+ 
