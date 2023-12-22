@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: mcqgenrator
+Version: 0.0.1
+Author: rushikesh khandare
+Author-email: rushikhandare2203@gmail.ai
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
