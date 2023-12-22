@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the purpose of Natural Language Processing (NLP)?,a: To communicate with robots | b: To perform tasks with human languages | c: To analyze sound systematically | d: To study the structure of words,b
+What are the two components of NLP?,a: Natural Language Understanding (NLU) and Natural Language Generation (NLG) | b: Phonology and Morphology | c: Syntax and Semantics | d: Pragmatics and Discourse,a
+Which component of NLP involves producing meaningful phrases and sentences in natural language?,a: Natural Language Understanding (NLU) | b: Natural Language Generation (NLG) | c: Lexical Analysis | d: Syntactic Analysis,b
+What is the study of organizing sound systematically called?,a: Phonology | b: Morphology | c: Syntax | d: Semantics,a
+Which step in NLP involves analyzing the structure of words in a sentence?,a: Lexical Analysis | b: Syntactic Analysis | c: Semantic Analysis | d: Discourse Integration,b
