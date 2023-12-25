@@ -47,6 +47,8 @@ IN AWS:
 
  vi .env
 
+ press INSERT
+
   OPENAI_API_KEY="--- --------------------------------"
   esc
   :wq
