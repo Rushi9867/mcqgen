@@ -20,7 +20,17 @@ Run StreamlitApp.py file:
 
 
 IN AWS:
-1. EC2 Instance
+
+1. first login to the AWS: 
+ https://aws.amazon.com/console/
+
+2. search about the EC2
+
+3. You need to go launch to config the ubuntu machine
+
+4. launch the machine 
+
+5. update the machine
  sudo apt update
 
  sudo apt-get update
@@ -47,7 +57,7 @@ IN AWS:
 
  pip3 install -r requirements.txt
 
- Go to Instances security gruops add Edit Inbound rule
+6. Go to Instances security gruops add Edit Inbound rule
 
 add rule 
 Type - Custom TCP
@@ -58,6 +68,9 @@ save rule
 
  python3 -m streamlit run StreamlitApp.py
 
+copy public ipv4 address on main page 
+
+--.--.--.--.:8501
 
 
 
