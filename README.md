@@ -1,5 +1,5 @@
 # mcq genrator
-# Fow to run?
+# How to run?
 ### Steps:
 clone the repository
 ```bash
