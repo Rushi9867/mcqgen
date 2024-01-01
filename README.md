@@ -1,25 +1,52 @@
+# mcq genrator
+# Fow to run?
+### Steps:
+clone the repository
+```bash
+Project repo: https://github.com/
+```
+### Step 01-Create environment after opening the repository
+
 create conda environment:
+```bash
  conda create -p env python=3.8 -y
+```
 
 activate conda environment:
+```bash
  source activate ./env
+```
 
 create virtual environment in vscode:
+```bash
  python -m venv venv
+```
 
 activate virtual environment in vscode:
+```bash
  venv/Scripts/activate
+```
+### STEP 02- install the requirements
+```bash
+pip install -r requirements.txt
+```
 
 create git repository
+```bash
  git init
- 
+```
+```bash
  git branch -M main
+```
 
 Run StreamlitApp.py file:
+```bash
  streamlit run StreamlitApp.py
+```
 
 
 IN AWS:
+```bash
 
 1. first login to the AWS: 
  https://aws.amazon.com/console/
@@ -69,6 +96,7 @@ Source - ANywhere ipv4
 save rule
 
  python3 -m streamlit run StreamlitApp.py
+```
 
 copy public ipv4 address on main page 
 
