@@ -1,4 +1,5 @@
 # mcq genrator
+<img src="https://github.com/Rushi9867/mcqgen/blob/main/experiment/mcq.jpg" width="1000"/>
 # How to run?
 ### Steps:
 clone the repository
