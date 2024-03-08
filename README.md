@@ -1,6 +1,9 @@
-# mcq genrator
+# MCQ Generator
+
 <img src="https://github.com/Rushi9867/mcqgen/blob/main/experiment/mcq.jpg" width="1000"/>
+
 # How to run?
+
 ### Steps:
 clone the repository
 ```bash
@@ -8,7 +11,7 @@ Project repo: https://github.com/
 ```
 ### Step 01-Create environment after opening the repository
 
-create conda environment:
+create a conda environment:
 ```bash
  conda create -p env python=3.8 -y
 ```
@@ -18,7 +21,7 @@ activate conda environment:
  source activate ./env
 ```
 
-create virtual environment in vscode:
+create a virtual environment in vs code:
 ```bash
  python -m venv venv
 ```
